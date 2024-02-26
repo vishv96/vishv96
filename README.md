@@ -1,3 +1,6 @@
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
 👋 Hello World! I'm Vishnu Vijayan, an enthusiastic iOS Developer based in Montreal, Canada 🍁. Originally from India, I bring a diverse perspective to my coding adventures.
 
 💻 As an iOS Developer, I thrive on turning innovative ideas into elegant and functional mobile applications. My passion for coding extends beyond work, as I love diving into the intricacies of software development and exploring new technologies.
