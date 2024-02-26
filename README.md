@@ -1,5 +1,5 @@
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=vishv96.visitor-badge)
 
 👋 Hello World! I'm Vishnu Vijayan, an enthusiastic iOS Developer based in Montreal, Canada 🍁. Originally from India, I bring a diverse perspective to my coding adventures.
 
