@@ -1,6 +1,8 @@
 
 <img align='right' src='https://visitor-badge.laobi.icu/badge?page_id=vishv96.visitor-badge'>
-
+</br>
+</br>
+</br>
 <div align='center'>
   👋 Hello World! I'm Vishnu Vijayan, an enthusiastic iOS Developer based in Montreal, Canada 🍁. Originally from India, I bring a diverse perspective to my coding adventures.
 
@@ -18,6 +20,14 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 <p align='center'>
     <img src='https://leetcard.jacoblin.cool/user5466Y?theme=nord&font=Khula'>
 </p>
