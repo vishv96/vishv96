@@ -19,6 +19,8 @@
   <a href="https://www.linkedin.com/in/vishnu-vijayan-75822154/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    <img src='https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white'>
+
 </p>
 
 </br>
