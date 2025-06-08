@@ -4,7 +4,7 @@
 </br>
 </br>
 <div align='center'>
-  👋 Hello World! I'm Vishnu Vijayan, an enthusiastic iOS Developer based in Montreal, Canada 🍁. Originally from India, I bring a diverse perspective to my coding adventures.
+  👋 Hello World! I'm Vishnu Vijayan, an enthusiastic iOS Developer based in Toronto, Canada 🍁. Originally from India, I bring a diverse perspective to my coding adventures.
 
 💻 As an iOS Developer, I thrive on turning innovative ideas into elegant and functional mobile applications. My passion for coding extends beyond work, as I love diving into the intricacies of software development and exploring new technologies.
 
